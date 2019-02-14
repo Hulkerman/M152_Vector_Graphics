@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Airline_logo.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient6635"
+       inkscape:collect="always"
+       osb:paint="gradient">
+      <stop
+         id="stop6631"
+         offset="0"
+         style="stop-color:#120000;stop-opacity:1;" />
+      <stop
+         id="stop6633"
+         offset="1"
+         style="stop-color:#007600;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5150"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.1682243;"
+         offset="0"
+         id="stop5146" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5148" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5134">
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1"
+         offset="0"
+         id="stop5130" />
+      <stop
+         style="stop-color:#007600;stop-opacity:1"
+         offset="1"
+         id="stop5132" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5134"
+       id="linearGradient5136"
+       x1="24.699894"
+       y1="134.61338"
+       x2="118.7824"
+       y2="134.61338"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(3.7795276)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6635"
+       id="linearGradient6637"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(3.7795276)"
+       x1="24.699894"
+       y1="134.61337"
+       x2="118.7824"
+       y2="134.61337" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter7131">
+      <feFlood
+         flood-opacity="0.533333"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood7121" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite7123" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0"
+         result="blur"
+         id="feGaussianBlur7125" />
+      <feOffset
+         dx="1"
+         dy="5.7"
+         result="offset"
+         id="feOffset7127" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite7129" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="412.39661"
+     inkscape:cy="600.68472"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-text-baseline="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:url(#linearGradient5136);fill-opacity:1;stroke:url(#linearGradient6637);stroke-width:1.00157475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter7131)"
+       d="M 93.5 425.0918 L 277.14258 481.0918 L 172.85742 592.51953 L 447.14258 442.51953 L 93.5 425.0918 z M 215 442.51953 L 385.5 453.51953 L 264.5 523.51953 L 303.5 475.01953 L 215 442.51953 z "
+       transform="scale(0.26458333)"
+       id="path4155" />
+    <path
+       style="fill:#999999;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
+       d="m 87.312499,95.538688 -8.841229,16.741902 15.599309,0.5382 z"
+       id="path5060"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#999999;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.0046729"
+       d="m 80.525722,141.44489 19.901298,-12.33098 8.8081,22.36525 z"
+       id="path5062"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
